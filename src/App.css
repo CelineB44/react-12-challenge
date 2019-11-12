@@ -10,15 +10,15 @@
 }
 
 .TabSelector button {
-  border: 2px solid transparent;
-  background: white;
+  border: -1px solid transparent;
+  background: #e67171;
   font-size: 1rem;
   padding: 0.5rem;
   flex-grow: 1;
 }
 
 .TabSelector button {
-  border-bottom: 2px solid #eee;
+  border-bottom: 2px solid;
 }
 
 .TabSelector button.active {
