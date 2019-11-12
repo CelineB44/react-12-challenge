@@ -1,5 +1,7 @@
 # React 12 - Lifting State Up - Challenge
 
+Fonctionnal Link on Netlify: https://tender-lichterman-90f276.netlify.com/
+
 As usual, you'll find all the components under the `src` folder:
 * `App`: "root" component (other "dummy" components are provided)
 * `TabSelector`: allows to select a tab
